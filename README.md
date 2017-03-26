@@ -1,0 +1,2 @@
+# asus_router_shadowsocks
+华硕原厂官方固件-AC68U安装shadowsocks设置教程
